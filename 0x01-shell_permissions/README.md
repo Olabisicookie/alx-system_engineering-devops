@@ -1,1 +1,1 @@
-symboliclink
+if only
