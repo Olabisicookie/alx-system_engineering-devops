@@ -1,2 +1,5 @@
 #!/bin/bash
 chmod --wxr-xr--olleh hello
+chmod a+x */
+chmod a+x */
+chmod --wxr-xr--olleh hello
