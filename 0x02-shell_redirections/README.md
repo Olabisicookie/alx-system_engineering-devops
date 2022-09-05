@@ -1,1 +1,1 @@
-No more javascript
+cut killer
