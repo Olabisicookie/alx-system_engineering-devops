@@ -1,1 +1,1 @@
-I prefer the first ones
+No more javascript
