@@ -1,1 +1,1 @@
-Global variables
+Hello user
