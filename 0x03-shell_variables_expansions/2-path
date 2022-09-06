@@ -1,2 +1,2 @@
 #!/bin/bas
-hello 
+export PATH=$PATH:/action
