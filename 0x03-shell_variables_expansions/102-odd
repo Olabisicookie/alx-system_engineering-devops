@@ -1,1 +1,2 @@
 #!/bin/bash
+perl -line *print if $_ %2 == 1*
